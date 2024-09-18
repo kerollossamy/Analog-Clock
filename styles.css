@@ -116,7 +116,6 @@ body {
     background: #fff;
     transform-origin: bottom;
     transform: scaleY(0.55);
-    /* transition: transform 0.05s linear; */
 }
 
 .numbers .circle#hr i {
