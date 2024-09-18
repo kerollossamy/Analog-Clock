@@ -63,7 +63,7 @@ body {
     inset: 5px;
     text-align: center;
     color: #fff;
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     transform: rotate(calc(90deg * var(--i)))
 }
 
